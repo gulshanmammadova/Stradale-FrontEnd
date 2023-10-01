@@ -81,7 +81,7 @@ header {
   background-position-y: center;
   background-attachment: fixed;
   background-size: cover;
-  background-image: url(/assets/img/subheader.jpg);
+  background-image: url(../img/subheader.jpg);
 }
 
 .reserv {
@@ -202,7 +202,7 @@ form-part input,
 }
 
 #address {
-  background-image: url(/assets/img/page.jpg);
+  background-image: url(../img/page.jpg);
   background-position: center;
   color: white;
 }
@@ -420,7 +420,7 @@ footer {
   background-position-y: center;
   background-attachment: fixed;
   padding: 15rem 0;
-  background-image: url(/assets/img/blogpagesubheader.jpg) ;
+  background-image: url(./assets/img/blogpagesubheader.jpg) ;
 } */
 
 .single-blog-page-info {
@@ -1461,7 +1461,7 @@ scale: 1.1;
   font-family: nunito,sans-serif;
 }
 #latest-blog-section{
-  background-image: url(/assets/img/home-blog-3-6.jpg);
+  background-image: url(../img/home-blog-3-6.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top left;
@@ -1479,7 +1479,7 @@ scale: 1.1;
   background-position-y: center;
   background-attachment: fixed;
   background-size: cover;
-  background-image: url(/assets/video/vecteezy_coffee-beans-coffee-flying-brown_19080887_980.mp4); */
+  background-image: url(./assets/video/vecteezy_coffee-beans-coffee-flying-brown_19080887_980.mp4); */
 }
 /* Home */
 @media (max-width: 576px) {
